@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @casszz
+- 👀 I’m interested in iOS programming and Bitcoin
+- 🌱 I’m currently learning SwiftUI
+- 📫 How to reach me Twitter @1casszz
